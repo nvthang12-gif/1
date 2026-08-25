@@ -1,0 +1,8 @@
+{
+  "name": "Bé Vui Học - Giáo Dục Sớm",
+  "description": "Ứng dụng tương tác giáo dục sớm cho trẻ từ 2-5 tuổi với phát âm tiếng Việt chuẩn, thu âm giọng ba mẹ, chế độ song ngữ Việt - Anh, bảng chữ cái, con vật, hành động, lá cờ và toán tư duy.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
